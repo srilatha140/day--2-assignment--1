@@ -1,0 +1,23 @@
+<!doctype> 
+<title> creation of a table</title>
+</head>
+<body> 
+<table border="1"> 
+<tr> 
+<th>name </th> 
+<th> adhar card</th> 
+<th> mobile number</th>
+</tr> 
+<tr> 
+<td> sri latha</td> 
+<td> 34678999900</td> 
+<td> 8019820796</td>
+</tr> 
+<tr> 
+<td> lakshmi</td> 
+<td> 35681344944</td> 
+<td>1234567893</td>
+</tr>
+</table>
+</body>
+</html>
